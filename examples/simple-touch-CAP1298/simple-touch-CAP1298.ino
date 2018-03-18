@@ -1,4 +1,4 @@
-#include <CAP1298.h>
+#include <cap1298.h>
 
 CAP1298 touchSensor;
 
